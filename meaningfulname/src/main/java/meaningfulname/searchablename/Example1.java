@@ -16,13 +16,13 @@ public class Example1 {
 		int realDaysPerIdealDay = 4;
 		int WORK_DAYS_PER_WEEK = 5;
 		int sum = 0;
-		for (int j=0; j < NUMBER_OF_TASKS; j++) {
+		for (int j = 0; j < NUMBER_OF_TASKS; j++) {
 			int[] taskEstimate = null;
-			int realTaskDays = taskEstimate[j] * realDaysPerIdealDay; 
-				int realdays = 0;
-				int realTaskWeeks = (realdays / WORK_DAYS_PER_WEEK);
-				sum += realTaskWeeks;
+			int realTaskDays = taskEstimate[j] * realDaysPerIdealDay;
+			int realdays = 0;
+			int realTaskWeeks = (realdays / WORK_DAYS_PER_WEEK);
+			sum += realTaskWeeks;
 		}
-		
+
 	}
 }

@@ -1,0 +1,25 @@
+package function.problem;
+
+public class PageData {
+
+	public WikiPage getWikiPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getHtml() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void setContent(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public boolean hasAttribute(String string) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

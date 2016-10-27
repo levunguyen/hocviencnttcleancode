@@ -1,0 +1,1 @@
+Not only is it long, but it’s got duplicated code, lots of odd strings, and many strange and inobvious data types and APIs
