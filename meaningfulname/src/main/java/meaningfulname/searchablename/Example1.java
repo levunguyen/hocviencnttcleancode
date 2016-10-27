@@ -12,6 +12,7 @@ public class Example1 {
 		}
 	}
 
+	good
 	public static void good() {
 		int realDaysPerIdealDay = 4;
 		int WORK_DAYS_PER_WEEK = 5;
