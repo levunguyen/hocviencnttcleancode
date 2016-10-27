@@ -1,0 +1,3 @@
+1)In order to make sure our functions are doing “one thing,” 
+we need to make sure that the statements 
+within our function are all at the same level of abstraction
