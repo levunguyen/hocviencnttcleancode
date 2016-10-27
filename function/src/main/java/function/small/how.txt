@@ -1,0 +1,8 @@
+1)The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that
+
+2)I was struck by how small all the functions were. 
+I was used to func- tions in Swing programs that took up miles of vertical space. 
+Every function in this pro- gram was just two, or three, or four lines long. 
+Each was transparently obvious. 
+
+3)This implies that the blocks within if statements, else statements, while statements, and so on should be one line long

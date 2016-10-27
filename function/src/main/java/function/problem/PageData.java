@@ -22,4 +22,9 @@ public class PageData {
 		return false;
 	}
 
+	public Object getContent() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
