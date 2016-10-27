@@ -1,0 +1,2 @@
+1) We should avoid words whose entrenched meanings vary from our intended meaning -> Example1
+2)Do not refer to a grouping of accounts as an accountList unless it’s actually a List -> Example 1
