@@ -1,0 +1,2 @@
+1)
+Flag arguments are ugly. Passing a boolean into a function is a truly terrible practice
