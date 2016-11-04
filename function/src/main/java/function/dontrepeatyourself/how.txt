@@ -1,0 +1,7 @@
+1)
+Duplication may be the root of all evil in software. 
+Many principles and practices have been created for the purpose of controlling or eliminating it. 
+Consider, for example, that all of Codd’s database normal forms serve to eliminate duplication in data. 
+Consider also how object-oriented programming serves to concentrate code into base classes that would otherwise 
+be redundant. Structured programming, Aspect Oriented Programming, 
+Compo- nent Oriented Programming, are all, in part, strategies for eliminating duplication
