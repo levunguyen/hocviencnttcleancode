@@ -1,0 +1,4 @@
+1)
+Readers shouldn’t have to mentally translate your names into other names they already know
+2)
+This is a problem with single-letter variable names. Certainly a loop counter may be named i or j or k 
