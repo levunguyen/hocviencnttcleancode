@@ -1,5 +1,5 @@
 package meaningfulname.classname;
 
-public class Example {
+public class Customer {
 
 }
