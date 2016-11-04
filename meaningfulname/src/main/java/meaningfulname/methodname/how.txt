@@ -1,0 +1,7 @@
+1) 
+Methods should have verb or verb phrase names 
+like postPayment, deletePage, or save
+
+2)
+Accessors, mutators, and predicates should be named for their value and prefixed with get, set, 
+and is according to the javabean standard
